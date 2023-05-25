@@ -6,7 +6,7 @@
       "description": "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Fusce eget dictum tortor. Donec dictum vitae sapien eu varius",
       "category": "StreetStyle, Fashion, Couple",
       "comment": 8,
-      "image": "/blog-04.jpg",
+      "image": "images/blog-04.jpg",
       "author": "Admin1",
       "dayRelease": 22
     },
@@ -16,7 +16,7 @@
       "description": "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Fusce eget dictum tortor. Donec dictum vitae sapien eu varius",
       "category": "StreetStyle, Fashion, Couple",
       "comment": 9,
-      "image": "/blog-05.jpg",
+      "image": "images/blog-05.jpg",
       "author": "Admin2",
       "dayRelease": 15
     },
@@ -26,7 +26,7 @@
       "description": "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Fusce eget dictum tortor. Donec dictum vitae sapien eu varius",
       "category": "StreetStyle, Fashion, Couple",
       "comment": 10,
-      "image": "/blog-06.jpg",
+      "image": "images/blog-06.jpg",
       "author": "Admin3",
       "dayRelease": 28
     }
