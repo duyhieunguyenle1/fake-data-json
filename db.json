@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "8 Inspiring Ways to Wear Dresses in the Winter",
+      "description": "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Fusce eget dictum tortor. Donec dictum vitae sapien eu varius",
+      "category": "StreetStyle, Fashion, Couple",
+      "comment": 8,
+      "image": "/blog-04.jpg",
+      "author": "Admin1",
+      "dayRelease": 22
+    },
+    {
+      "id": 2,
+      "title": "The Great Big List of Men’s Gifts for the Holidays",
+      "description": "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Fusce eget dictum tortor. Donec dictum vitae sapien eu varius",
+      "category": "StreetStyle, Fashion, Couple",
+      "comment": 9,
+      "image": "/blog-05.jpg",
+      "author": "Admin2",
+      "dayRelease": 15
+    },
+    {
+      "id": 3,
+      "title": "5 Winter-to-Spring Fashion Trends to Try Now",
+      "description": "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Fusce eget dictum tortor. Donec dictum vitae sapien eu varius",
+      "category": "StreetStyle, Fashion, Couple",
+      "comment": 10,
+      "image": "/blog-06.jpg",
+      "author": "Admin3",
+      "dayRelease": 28
+    }
+  ]
+}
